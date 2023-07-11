@@ -6,7 +6,7 @@
 - 💞️ Ich freue mich auf die Zusammenarbeit an Open-Source-Projekten und interessanten Projekten, die mir helfen können, meine Programmierfähigkeiten zu verbessern.
 - 📫 So können Sie mich erreichen: Sie können mich unter meiner E-Mail-Adresse nielsschild@gmx.de erreichen.
 
-<figure><embed src="https://wakatime.com/share/@8b6a6d0e-26fd-4916-a9ac-1060bac105b5/f2bcb8fc-6d89-4be9-b72c-72c35fe9a2fc.svg"></embed></figure>
+![Wakatime stats](https://wakatime.com/share/@8b6a6d0e-26fd-4916-a9ac-1060bac105b5/f2bcb8fc-6d89-4be9-b72c-72c35fe9a2fc.svg)
 
 - 👋 Hi, I’m Niels
 - 👀 I’m interested in Full Stack Development, including both frontend and backend technologies.
