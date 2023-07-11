@@ -1,4 +1,3 @@
-🇩🇪
 - 👋 Hallo, ich bin Niels
 - 👀 Ich interessiere mich für Full Stack Entwicklung, einschließlich Frontend- und Backend-Technologien.
 - 🌱 Ich lerne gerade die Grundlagen von HTML, CSS und JavaScript und plane, mein Wissen auf Node.js und andere Backend-Technologien auszuweiten.
@@ -7,7 +6,8 @@
 - 💞️ Ich freue mich auf die Zusammenarbeit an Open-Source-Projekten und interessanten Projekten, die mir helfen können, meine Programmierfähigkeiten zu verbessern.
 - 📫 So können Sie mich erreichen: Sie können mich unter meiner E-Mail-Adresse nielsschild@gmx.de erreichen.
 
-🇬🇧
+<figure><embed src="https://wakatime.com/share/@8b6a6d0e-26fd-4916-a9ac-1060bac105b5/f2bcb8fc-6d89-4be9-b72c-72c35fe9a2fc.svg"></embed></figure>
+
 - 👋 Hi, I’m Niels
 - 👀 I’m interested in Full Stack Development, including both frontend and backend technologies.
 - 🌱 I’m currently learning the basics of HTML, CSS, and JavaScript, and I plan to expand my knowledge to Node.js and other backend technologies.
